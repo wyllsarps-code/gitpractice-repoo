@@ -9,5 +9,12 @@ git push -u origin master
 Updating commands
 git add .
 git commit -m "I have updated my txt file"
-git push -u origin master
 git push
+**repeat this section to update commands to github. save the commands or code first
+
+When working with a team
+Get latest changes pushed by other team members from github repository first then push your changes next
+Commands:
+git pull origin master
+
+
