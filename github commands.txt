@@ -5,3 +5,8 @@ git remote add origin giturllink
 git add .
 git commit -m "Im reviewing my learning"
 git push -u origin master
+
+Updating commands
+git add .
+git commit -m "I have updated my txt file"
+git push -u origin master
