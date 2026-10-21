@@ -17,4 +17,12 @@ Get latest changes pushed by other team members from github repository first the
 Commands:
 git pull origin master
 
+Clone a repository of a team member to your computer and move the other team members code/working
+to my VSCODE
+1. Copy the external repository sitelink
+2. Ctrl + Shift + P on your vscode area
+3. Select Clone
+4. paste the copied repository
+5. Create a folder to save repository. Select as repository destination. Open in new window
+
 
