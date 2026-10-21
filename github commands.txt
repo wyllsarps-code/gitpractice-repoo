@@ -10,3 +10,4 @@ Updating commands
 git add .
 git commit -m "I have updated my txt file"
 git push -u origin master
+git push
