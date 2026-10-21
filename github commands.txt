@@ -1,1 +1,7 @@
-github commands
+github commands:
+
+git init 
+git remote add origin giturllink
+git add .
+git commit -m "Im reviewing my learning"
+git push -u origin master
