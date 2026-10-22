@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(189, 221, 214);
+}
+h1{
+    color: #333;
+    text-align: center;
+}
+
+h2{
+    color:blue
+    text-align: right;
+}
+p{
+    background-color: rgb(117, 83, 42);
+    text-align: left;
+}
