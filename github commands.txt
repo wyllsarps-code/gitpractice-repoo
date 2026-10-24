@@ -42,3 +42,4 @@ Update branch to github
 4. git push -u origin branchname
 
 Create and share a live url link
+settings --> pages --> master --> save --> link generates in few miniutes
